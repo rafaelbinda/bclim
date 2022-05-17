@@ -1,0 +1,23 @@
+{
+  "name": "bclim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "start": "json-server --watch db.json --port 3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelbinda/bclim.git"
+  },
+  "keywords": [],
+  "author": "Rafael Binda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelbinda/bclim/issues"
+  },
+  "homepage": "https://github.com/rafaelbinda/bclim#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

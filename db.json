@@ -1,0 +1,19 @@
+{
+    "clientes": [
+        {
+            "id": 1,
+            "name": "Rafael Binda",
+            "price": 200.89
+        },
+        {
+            "id": 2,
+            "name": "Bruno Zini",
+            "price": 2000.89
+        },
+        {
+            "id": 3,
+            "name": "Fulano de Tal",
+            "price": 400.00
+        }
+    ]
+}
